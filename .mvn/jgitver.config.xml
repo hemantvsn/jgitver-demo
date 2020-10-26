@@ -4,5 +4,4 @@
     <strategy>CONFIGURABLE</strategy>
     <useDirty>true</useDirty>
     <useGitCommitId>true</useGitCommitId>
-    <useSnapshot>true</useSnapshot>
 </configuration>
