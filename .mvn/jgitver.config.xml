@@ -2,4 +2,6 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:schemaLocation="http://jgitver.github.io/maven/configuration/1.1.0 https://jgitver.github.io/maven/configuration/jgitver-configuration-v1_1_0.xsd">
     <strategy>CONFIGURABLE</strategy>
+    <useDirty>true</useDirty>
+    <useGitCommitId>true</useGitCommitId>
 </configuration>
